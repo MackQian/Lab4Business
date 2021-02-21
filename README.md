@@ -19,4 +19,4 @@ Picking the Apache license:
 https://docs.google.com/document/d/1CVQs9SRxvRWSxgheRNiuJxWLdjLJoSPSfdcokaz9Cc4/edit
 
 Contributors:
-Nicholas Yao
+* Nicholas Yao
