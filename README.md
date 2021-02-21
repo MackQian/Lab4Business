@@ -15,3 +15,5 @@ Similar to the reason Android and Hadoop use it
 Unmodified code must stay under the Apache license, but any new modifications and code can be put with any other license, including proprietary licenses
 This supports the idea of a marketplace, since monetizing add-ons would be possible under the Apache license.
 
+
+https://docs.google.com/document/d/1CVQs9SRxvRWSxgheRNiuJxWLdjLJoSPSfdcokaz9Cc4/edit
