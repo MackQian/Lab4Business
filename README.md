@@ -21,3 +21,4 @@ https://docs.google.com/document/d/1CVQs9SRxvRWSxgheRNiuJxWLdjLJoSPSfdcokaz9Cc4/
 Contributors:
 * Nicholas Yao
 * Samarth Patel
+* Victoria Savage
