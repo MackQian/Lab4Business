@@ -21,3 +21,4 @@ Contributors:
 * Samarth Patel
 * Victoria Savage
 * Serena Chen
+* Mack Qian
